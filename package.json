@@ -20,12 +20,13 @@
     "lint:fix": "eslint --fix .",
     "serve": "serve -s build"
   },
-  "eslintConfig": {
+  "eslintConfiggg": {
     "extends": [
       "react-app",
       "react-app/jest"
     ]
   },
+  
   "browserslist": {
     "production": [
       ">0.2%",

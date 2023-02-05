@@ -1,0 +1,48 @@
+1. node
+2. npm
+3. nvm
+4. .vscode setting
+5. npm i -g yarn
+npm i -g serve
+
+
+yarn -v
+npm -v
+nvm -v
+node -v
+
+nvm list
+nvm use 18.0.1
+nvm use newest
+nvm install latest/newest
+
+install git scm
+
+git -v
+npx -v
+
+eslint, prettier
+npm init @eslint/config
+
+
+
+
+"rules":{
+"react/jsx-filename-extension":[
+1,
+{
+"extensions":[".js", ".jsx"]
+}
+]
+}
+
+
+"scripts":{
+"lint":"eslint .",
+"lint:fix":"eslint --fix .",
+"serve":"serve -s build"
+}
+
+
+
+

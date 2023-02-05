@@ -16,7 +16,7 @@
     ]
   },
   // cursor
-  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorSmoothCaretAnimation": "on",
   "editor.cursorBlinking": "expand",
   // config related to code formatting
   "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -47,7 +47,7 @@
   "terminal.integrated.fontSize": 16,
   "terminal.integrated.fontWeight": "normal",
   "terminal.integrated.fontFamily": "Fira Code, Operator Mono",
-  "workbench.iconTheme": "material-icon-theme",
+  "workbench.iconTheme": "helium-icon-theme",
   // terminal customization
   "workbench.colorCustomizations": {
     "terminal.background": "#1D2021",
